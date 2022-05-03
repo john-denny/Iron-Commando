@@ -1,0 +1,2 @@
+// Manage fullscreen
+fullscreen = false
